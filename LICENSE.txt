@@ -1,0 +1,5 @@
+Tilawat Alarm (sample application)
+Copyright (c) 2026. Source code provided to the recipient for personal and commercial modification.
+
+You may use, modify, and redistribute this project's original application source code.
+External libraries and tools retain their own licenses. Audio recordings are not included.

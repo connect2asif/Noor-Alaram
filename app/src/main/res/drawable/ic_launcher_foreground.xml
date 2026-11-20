@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp" android:viewportWidth="108" android:viewportHeight="108">
+    <!-- Crescent -->
+    <path android:fillColor="#E9C77B" android:pathData="M44,20C33,20 24,29 24,40C24,48 29,55 36,58C31,53 29,47 30,41C31,31 39,25 49,25C50,25 51,25 52,25C49,22 47,20 44,20Z"/>
+    <!-- Small star -->
+    <path android:fillColor="#F8E6B7" android:pathData="M72,21L74.1,26.9L80,29L74.1,31.1L72,37L69.9,31.1L64,29L69.9,26.9Z"/>
+    <!-- Decorative clock face -->
+    <path android:fillColor="#F6E9C9" android:pathData="M54,34a26,26 0,1 0,0 52a26,26 0,1 0,0 -52"/>
+    <path android:fillColor="#0D5557" android:pathData="M54,40a20,20 0,1 0,0 40a20,20 0,1 0,0 -40"/>
+    <path android:strokeColor="#EAC879" android:strokeWidth="3" android:strokeLineCap="round"
+        android:pathData="M54,46V60L65,65" />
+    <path android:fillColor="#EAC879" android:pathData="M54,56a4,4 0,1 0,0 8a4,4 0,1 0,0 -8"/>
+    <path android:fillColor="#EAC879" android:pathData="M44,30Q54,23 64,30L62,34Q54,30 46,34Z" />
+</vector>
